@@ -1,0 +1,4 @@
+aiokafka==0.8.1
+marshmallow==3.18.0
+markupsafe==2.0.1
+git+https://${GITLAB_DEPLOY_USERNAME}:${GITLAB_DEPLOY_TOKEN}@gitlab.inesctec.pt/cpes/european-projects/interconnect/hems/custom-hems-libraries/hems-auth.git@v2.0.4
